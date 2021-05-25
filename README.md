@@ -3,7 +3,7 @@ quick little python testfile for logging in and obtaining the schedule of AH emp
 
 ## Usage
 example: 
-`python3 main.py  --username "pnlxxxxx" --password "qwerty123456" --scheduleJsonFile "outputFile.json"`
+`python3 main.py  --username "pnlxxxxx" --password "qwerty123456" `
 
 ### required parameters:
 parameter name    | explaination
